@@ -1,4 +1,4 @@
-package com.healthboxes.app.Factories.ViewFactory;
+package ViewFactory;
 
 /**
  * @author Paul Okeke
